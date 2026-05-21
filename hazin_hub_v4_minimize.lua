@@ -16,7 +16,7 @@ local PlayerGui = player:WaitForChild("PlayerGui")
 local HUB_NAME = "Hazin Hub"
 local HUB_VERSION = "V4"
 local HUB_ICON_TEXT = "H"
-local HUB_ICON_IMAGE = "" -- opcional: coloque um rbxassetid://ID se quiser imagem na bolinha
+local HUB_ICON_IMAGE = "15724417321"
 
 local VALID_KEYS = {
 	["HAZIN_HUB"] = {
