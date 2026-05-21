@@ -15,12 +15,12 @@ local PlayerGui = player:WaitForChild("PlayerGui")
 local HUB_NAME = "Hazin Hub"
 
 local VALID_KEYS = {
-	["1234"] = {
+	["HAZIN_HUB"] = {
 		duration = 60 * 60 * 24,
 		name = "Key 1 Dia",
 	},
 
-	["SEMANA123"] = {
+	["HAZI-HUB"] = {
 		duration = 60 * 60 * 24 * 7,
 		name = "Key 1 Semana",
 	},
