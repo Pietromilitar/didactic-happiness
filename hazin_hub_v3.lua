@@ -1,8 +1,3 @@
---// HAZIN HUB V3 - 100% LOCALSCRIPT
---// Key system + painel animado + fly por WASD/direcional mobile
---// Studio Lite / Roblox LocalScript
---// Coloque em: StarterPlayer > StarterPlayerScripts > LocalScript
-
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 local RunService = game:GetService("RunService")
